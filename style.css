@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: "Oxanium", sans-serif;
+}
+
+.container {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(9, 9, 69);
+    color: white;
+    height: 400px;
+    width: max-content;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+
+.para-num {
+    background-color: black;
+    height: 250px;
+    width: 250px;
+    margin: 25px;
+    padding: 5px;
+    color: red;
+    font-size: 10rem;
+}
+
+.button-num {
+    background-color: transparent;
+    color: white;
+    font-family: "Oxanium", sans-serif;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
